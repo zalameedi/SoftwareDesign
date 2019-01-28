@@ -8,7 +8,7 @@ namespace HW1
 {
     public class BST
     {
-        public Node pRoot { get; set; }
+        public Node Root { get; set; }
         public int Count { get; set; } //Counting the height of the Tree for later
 
         /// <summary>
@@ -16,48 +16,47 @@ namespace HW1
         /// </summary>
         public BST()
         {
-            pRoot = null;
+            Root = null;
         }
 
         /// <summary>
-        /// Insert - Checks to see if pRoot is empty (Tree is empty) if so initialize it as the first node to be inserted. 
+        /// Insert - Checks to see if Root is empty (Tree is empty) if so initialize it as the first node to be inserted. 
         /// Then begins to check if it belongs on the right side (meaning data is greater) so it checks the child of the root first then recursively its branch respectively if no spot is found.
         /// Likewise for the left side. Must return node so it can recursively be called to return next node when going through branches.
         /// </summary>
-        /// <param name="pRoot">Pass in the head or root of the tree</param>
+        /// <param name="root">Pass in the head or root of the tree</param>
         /// <param name="mdata">New data to be inserted</param>
         /// <returns></returns>
-        public Node Insert(Node pRoot, int mdata)
+        public Node Insert(Node root, int mdata)
         {
-            if (pRoot == null)
+            if (root == null)
             {
-                pRoot = new Node(mdata);
+                root = new Node(mdata);
             }
-            else if (pRoot.Data < mdata)
+            else if (root.Data < mdata)
             {
-                if (pRoot.PRight == null)
+                if (root.PRight == null)
                 {
-                    pRoot.PRight = new Node(mdata);
+                    root.PRight = new Node(mdata);
                 }
                 else
                 {
-                    pRoot.PRight = Insert(pRoot.PRight, mdata);
+                    root.PRight = Insert(root.PRight, mdata);
                 }
             }
-            else if (pRoot.Data > mdata)
+            else if (root.Data > mdata)
             {
-                if (pRoot.PLeft == null)
+                if (root.PLeft == null)
                 {
-                    pRoot.PLeft = new Node(mdata);
+                    root.PLeft = new Node(mdata);
                 }
                 else
                 {
-                    pRoot.PLeft = Insert(pRoot.PLeft, mdata);
+                    root.PLeft = Insert(root.PLeft, mdata);
                 }
             }
-            return pRoot;
-            }
-
+            return root;
+        }
 
         /// <summary>
         /// inOrderTraversal checks to see if Tree is empty, then recursively prints left branch then right branch is data entries.
@@ -67,18 +66,17 @@ namespace HW1
         {
             try
             {
-                if(node == null)
+                if (node == null)
                 {
                     return;
                 }
                 else
-                InOrderTraversal(node.PLeft);
+                    InOrderTraversal(node.PLeft);
                 Console.Write(node.Data + " ");
                 InOrderTraversal(node.PRight);
                 this.Count++;
             }
-
-            catch(Exception)
+            catch (Exception)
             {
                 Console.WriteLine("The tree is empty.");
             }
@@ -112,8 +110,5 @@ namespace HW1
 
             return result;
         }
-
     }
-    }
-
-
+}

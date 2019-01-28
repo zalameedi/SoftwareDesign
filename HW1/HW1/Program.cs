@@ -37,17 +37,17 @@ namespace HW1
                 if (int.TryParse(temp, out int value)) //Parse string into an integer
                 {
                     result = value;
-                    myTree.pRoot = myTree.Insert(myTree.pRoot, result);
+                    myTree.Root = myTree.Insert(myTree.Root, result);
                 }
             }
 
             //Stats
             Console.WriteLine("\nTree Stats: \n");
             Console.Write("inOrder Traversal: ");
-            myTree.InOrderTraversal(myTree.pRoot);
+            myTree.InOrderTraversal(myTree.Root);
             Console.WriteLine("\n   Number of nodes: " + myTree.Count);
-            Console.WriteLine(String.Format("   Height of tree: {0}", myTree.Levels(myTree.pRoot)));
-            Console.WriteLine(String.Format("   Theoretical: Minimum levels for a tree with {0} nodes is {1}\n", myTree.Count, myTree.MinLevel(myTree.pRoot)));
+            Console.WriteLine(string.Format("   Height of tree: {0}", myTree.Levels(myTree.Root)));
+            Console.WriteLine(string.Format("   Theoretical: Minimum levels for a tree with {0} nodes is {1}\n", myTree.Count, myTree.MinLevel(myTree.Root)));
             Console.WriteLine("\n");
             Console.WriteLine("Program complete.\n");
         }

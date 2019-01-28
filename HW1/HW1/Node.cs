@@ -30,6 +30,5 @@ namespace HW1
             this.PLeft = null;
             this.PRight = null;
         }
-
     }
 }

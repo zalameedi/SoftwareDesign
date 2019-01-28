@@ -3,31 +3,7 @@ using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace HW1
-{
-    [TestClass]
-    public class NodeTest
-    {
-
-        /// <summary>
-        /// Testing to assert if the Node constructor() method works correctly. No parameters.
-        /// </summary>
-        [TestMethod]
-        public void makeNode()
-        {
-            Node n1 = new Node(42);
-            Node n2 = new Node();
-
-            Assert.AreEqual(42, n1.Data);
-            Assert.AreEqual(null, n1.PLeft);
-            Assert.AreEqual(null, n1.PRight);
-
-
-
-            Assert.AreEqual(0, n2.Data);
-        }
-    }
-
-
+{   
     [TestClass]
     public class BSTTest
     {
@@ -35,10 +11,10 @@ namespace HW1
         ///  Testing to assert if the BST constructor() method works correctly. No parameters.
         /// </summary>
         [TestMethod]
-        public void makeTree()
+        public void MakeTree()
         {
             BST bst = new BST();
-            Assert.AreEqual(null, bst.pRoot);
+            Assert.AreEqual(null, bst.Root);
         }
 
         /// <summary>
@@ -54,12 +30,12 @@ namespace HW1
             myLst.Add(10);
             foreach(int x in myLst)
             {
-                bst.pRoot = bst.Insert(bst.pRoot, x);
+                bst.Root = bst.Insert(bst.Root, x);
             }
 
-            Assert.AreEqual(20, bst.pRoot.Data);
-            Assert.AreEqual(30, bst.pRoot.PRight.Data);
-            Assert.AreEqual(10, bst.pRoot.PLeft.Data);
+            Assert.AreEqual(20, bst.Root.Data);
+            Assert.AreEqual(30, bst.Root.PRight.Data);
+            Assert.AreEqual(10, bst.Root.PLeft.Data);
         }
 
         /// <summary>
@@ -71,21 +47,15 @@ namespace HW1
             BST bst = new BST();
             try
             {
-                bst.InOrderTraversal(bst.pRoot); //Empty inorder traversal
+                bst.InOrderTraversal(bst.Root); //Empty inorder traversal
                 Assert.Fail(); // raises AssertionException
             }
             catch (Exception)
-            {
-                
-            }
-
-
-            bst.Insert(bst.pRoot, 30);
-            bst.InOrderTraversal(bst.pRoot); //non empty tree
+            {}
+            bst.Insert(bst.Root, 30);
+            bst.InOrderTraversal(bst.Root); //non empty tree
             Assert.IsNotNull(bst);
         }
-
-
         /// <summary>
         ///  Testing to assert if the MinLevels() method works correctly. No parameters.
         /// </summary>
@@ -104,23 +74,16 @@ namespace HW1
                 600,
                 43
             };
-
-
             foreach (int x in myLst)
             {
-                bst.pRoot = bst.Insert(bst.pRoot, x);
+                bst.Root = bst.Insert(bst.Root, x);
             }
             double result = 0.0;
 
-            result = bst.MinLevel(bst.pRoot);
+            result = bst.MinLevel(bst.Root);
 
-            Assert.AreEqual(bst.MinLevel(bst.pRoot), result);
-
-
-
+            Assert.AreEqual(bst.MinLevel(bst.Root), result);
         }
-
-
         /// <summary>
         /// Testing to assert if the Levels() method works correctly. No parameters.
         /// </summary>
@@ -139,14 +102,12 @@ namespace HW1
                 600,
                 43
             };
-
-
             foreach (int x in myLst)
             {
-                bst.pRoot = bst.Insert(bst.pRoot, x);
+                bst.Root = bst.Insert(bst.Root, x);
             }
 
-            Assert.AreEqual(4, bst.Levels(bst.pRoot));
+            Assert.AreEqual(4, bst.Levels(bst.Root));
         }
     }
 }
