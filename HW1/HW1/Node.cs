@@ -6,26 +6,29 @@ using System.Threading.Tasks;
 
 namespace HW1
 {
-    class Node
+    /// <summary>
+    /// Node class which represents data entries and the links for the branches in our tree.
+    /// </summary>
+    public class Node
     {
         //Node's attributes (Data for the value, and L/R pts for the Tree)
-        public int data;
-        public Node pLeft;
-        public Node pRight;
+        public int Data { get; set; }
+        public Node PLeft { get; set; }
+        public Node PRight { get; set; }
 
         //Constructors Default/1 Argument
         public Node()
         {
-            this.pLeft = null;
-            this.pRight = null;
-            this.data = 0;
+            this.PLeft = null;
+            this.PRight = null;
+            this.Data = 0;
         }
 
         public Node(int mdata)
         {
-            this.data = mdata;
-            this.pLeft = null;
-            this.pRight = null;
+            this.Data = mdata;
+            this.PLeft = null;
+            this.PRight = null;
         }
 
     }

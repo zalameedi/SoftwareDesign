@@ -1,0 +1,17 @@
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\HW1.exe
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\HW1.pdb
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\HW1.exe.config
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Zeida\source\repos\projects321\HW1\UnitTest\obj\Debug\UnitTest.pdb

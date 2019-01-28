@@ -1,0 +1,2 @@
+C:\Users\Zeida\source\repos\projects321\HW1\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\projects321\HW1\NUnit.Tests1\obj\Debug\NUnit.Tests1.csproj.CoreCompileInputs.cache

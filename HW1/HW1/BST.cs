@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace HW1
 {
-    class BST
+    public class BST
     {
-        public Node pRoot;
+        public Node pRoot { get; set; }
         public int Count { get; set; } //Counting the height of the Tree for later
 
         /// <summary>
@@ -33,26 +33,26 @@ namespace HW1
             {
                 pRoot = new Node(mdata);
             }
-            else if (pRoot.data < mdata)
+            else if (pRoot.Data < mdata)
             {
-                if (pRoot.pRight == null)
+                if (pRoot.PRight == null)
                 {
-                    pRoot.pRight = new Node(mdata);
+                    pRoot.PRight = new Node(mdata);
                 }
                 else
                 {
-                    pRoot.pRight = Insert(pRoot.pRight, mdata);
+                    pRoot.PRight = Insert(pRoot.PRight, mdata);
                 }
             }
-            else if (pRoot.data > mdata)
+            else if (pRoot.Data > mdata)
             {
-                if (pRoot.pLeft == null)
+                if (pRoot.PLeft == null)
                 {
-                    pRoot.pLeft = new Node(mdata);
+                    pRoot.PLeft = new Node(mdata);
                 }
                 else
                 {
-                    pRoot.pLeft = Insert(pRoot.pLeft, mdata);
+                    pRoot.PLeft = Insert(pRoot.PLeft, mdata);
                 }
             }
             return pRoot;
@@ -72,9 +72,9 @@ namespace HW1
                     return;
                 }
                 else
-                InOrderTraversal(node.pLeft);
-                Console.Write(node.data + " ");
-                InOrderTraversal(node.pRight);
+                InOrderTraversal(node.PLeft);
+                Console.Write(node.Data + " ");
+                InOrderTraversal(node.PRight);
                 this.Count++;
             }
 
@@ -92,7 +92,7 @@ namespace HW1
         /// <param name="root">Starts counting from the below the root passed in.</param>
         /// <returns></returns>
         ///Found the formula https://cs.stackexchange.com/questions/6277/why-is-the-minimum-height-of-a-binary-tree-log-2n1-1
-        public double minLevel(Node root)
+        public double MinLevel(Node root)
         {
             if (root != null)
                 return Math.Ceiling(Math.Log(Count) + 1);
@@ -108,7 +108,7 @@ namespace HW1
         {
             int result = 0;
             if (root != null)
-                return 1 + Math.Max(Levels(root.pLeft), Levels(root.pRight)); //calculates which ever one has the higher depth then returns it
+                return 1 + Math.Max(Levels(root.PLeft), Levels(root.PRight)); //calculates which ever one has the higher depth then returns it
 
             return result;
         }
