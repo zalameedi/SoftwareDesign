@@ -1,0 +1,10 @@
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\obj\Debug\HW3.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\obj\Debug\HW3.Form1.resources
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\obj\Debug\HW3.Properties.Resources.resources
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\obj\Debug\HW3.csproj.GenerateResource.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW3\HW3\HW3\obj\Debug\HW3.pdb
