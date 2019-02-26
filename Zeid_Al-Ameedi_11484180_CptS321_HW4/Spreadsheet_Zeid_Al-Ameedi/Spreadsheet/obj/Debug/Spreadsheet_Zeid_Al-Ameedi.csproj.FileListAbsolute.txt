@@ -1,0 +1,13 @@
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe.config
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet_Zeid_Al-Ameedi.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Form1.resources
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet_Zeid_Al-Ameedi.csproj.GenerateResource.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet_Zeid_Al-Ameedi.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet_Zeid_Al-Ameedi.csproj.CopyComplete
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW4\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb
