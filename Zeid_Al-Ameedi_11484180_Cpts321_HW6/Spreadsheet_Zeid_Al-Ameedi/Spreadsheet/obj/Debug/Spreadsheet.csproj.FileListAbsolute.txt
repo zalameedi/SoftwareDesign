@@ -1,0 +1,13 @@
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe.config
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csprojAssemblyReference.cache
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Form1.resources
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.GenerateResource.cache
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CopyComplete
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.exe
+C:\Users\Zeida\repos\gitProj\321-Object-Oriented-Software-Principles\cs321-HW5\cs321-kfreund-HW5\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb
