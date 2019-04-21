@@ -1,0 +1,6 @@
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojAssemblyReference.cache

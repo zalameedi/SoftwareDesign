@@ -1,0 +1,10 @@
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\bin\Debug\ExpressionTreeApp.exe.config
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\bin\Debug\ExpressionTreeApp.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\bin\Debug\ExpressionTreeApp.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.csproj.CopyComplete
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_Cpts321_HW10\ExpressionTreeApp\obj\Debug\ExpressionTreeApp.pdb
