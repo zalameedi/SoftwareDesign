@@ -1,0 +1,7 @@
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW11\Zeid_Al-Ameedi_11484180_CptS321_HW11\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW11.exe.config
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW11\Zeid_Al-Ameedi_11484180_CptS321_HW11\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW11.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW11\Zeid_Al-Ameedi_11484180_CptS321_HW11\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW11.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW11\Zeid_Al-Ameedi_11484180_CptS321_HW11\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW11.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW11\Zeid_Al-Ameedi_11484180_CptS321_HW11\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW11.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW11\Zeid_Al-Ameedi_11484180_CptS321_HW11\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW11.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW11\Zeid_Al-Ameedi_11484180_CptS321_HW11\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW11.pdb
