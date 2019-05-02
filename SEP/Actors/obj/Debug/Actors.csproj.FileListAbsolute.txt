@@ -1,0 +1,2 @@
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Actors\obj\Debug\Actors.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Actors\obj\Debug\Actors.csproj.CoreCompileInputs.cache

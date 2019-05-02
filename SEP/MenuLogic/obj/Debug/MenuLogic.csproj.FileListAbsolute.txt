@@ -1,0 +1,2 @@
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\MenuLogic\obj\Debug\MenuLogic.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\MenuLogic\obj\Debug\MenuLogic.csproj.CoreCompileInputs.cache

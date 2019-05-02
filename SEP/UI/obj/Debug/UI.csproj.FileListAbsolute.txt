@@ -1,0 +1,5 @@
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\UI\obj\Debug\UI.LocalEatery.resources
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache

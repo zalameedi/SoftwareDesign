@@ -1,0 +1,6 @@
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Revenue\bin\Debug\Revenue.dll
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Revenue\bin\Debug\Revenue.pdb
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Revenue\obj\Debug\Revenue.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Revenue\obj\Debug\Revenue.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Revenue\obj\Debug\Revenue.dll
+C:\Users\Zeida\source\repos\322\NewLocalEatery\NewLocalEatery\LocalEatery\Revenue\obj\Debug\Revenue.pdb
