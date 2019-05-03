@@ -1,0 +1,9 @@
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.exe.config
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\obj\Debug\Zeid_Alameedi_11484180_HW13.Form1.resources
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.Properties.Resources.resources
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.csproj.GenerateResource.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\Zeid_Al-Ameedi_11484180_CptS321_HW13\obj\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.pdb

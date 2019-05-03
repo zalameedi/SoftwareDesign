@@ -1,0 +1,17 @@
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.exe
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.pdb
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Zeid_Al-Ameedi_11484180_CptS321_HW13.exe.config
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Zeida\source\repos\projects321\Zeid_Al-Ameedi_11484180_CptS321_HW13\UnitTests\obj\Debug\UnitTests.pdb
